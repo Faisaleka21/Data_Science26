@@ -1,9 +1,7 @@
 # Data_Science26
 
-tugas praktik 
+Tugas Praktik:
 
-P3
-
-P4
-
-P5
+* [P3](https://github.com/Faisaleka21/Data_Science26/blob/main/Praktik3DS.ipynb)
+* [P4](https://github.com/Faisaleka21/Data_Science26/blob/main/Praktik3DS.ipynb)
+* [P5](https://github.com/Faisaleka21/Data_Science26/blob/main/Praktik3DS.ipynb)
